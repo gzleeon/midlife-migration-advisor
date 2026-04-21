@@ -1,9 +1,9 @@
 {
-  "name": "qian-mu-emigration-advisor",
+  "name": "midlife-migration-advisor",
   "version": "1.0.0",
-  "description": "基于钱穆《中国历代政治得失》四层分析框架的中国去留决策智能顾问，通过对话式问卷评估政治风险与个人流动能力，给出个性化建议与行动计划",
+  "description": "中年人移民顾问插件 · 基于国学大师钱穆的认知框架，通过对话式问卷评估外部环境与个人流动能力，给出目标国推荐、职业路径与分阶段行动计划",
   "author": {
     "name": "Caroline"
   },
-  "keywords": ["china", "emigration", "political-analysis", "qian-mu", "decision-making"]
+  "keywords": ["migration", "midlife", "qian-mu", "decision-making", "career", "relocation"]
 }
