@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-git clone <仓库地址> ~/.claude/plugins/midlife-migration-advisor
+git clone https://github.com/gzleeon/midlife-migration-advisor.git ~/.claude/plugins/midlife-migration-advisor
 ```
 
 克隆后在 Claude Code 设置中启用插件，或重启 Claude Code 自动加载。
