@@ -1,0 +1,9 @@
+{
+  "name": "qian-mu-emigration-advisor",
+  "version": "1.0.0",
+  "description": "基于钱穆《中国历代政治得失》四层分析框架的中国去留决策智能顾问，通过对话式问卷评估政治风险与个人流动能力，给出个性化建议与行动计划",
+  "author": {
+    "name": "Caroline"
+  },
+  "keywords": ["china", "emigration", "political-analysis", "qian-mu", "decision-making"]
+}
